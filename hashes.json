@@ -1,0 +1,10 @@
+{
+  {
+    "name": "enableRDP.ps1",
+    "sha256": "42a0c6a9460cc71e7853dbef051f78da617a243d9d507a864f4db37ecfd0991f"
+  },
+  {
+    "name": "testS3web.ps1",
+    "sha256": "42a0c6a9460cc71e7853dbef051f78da617a243d9d507a864f4db37ecfd0991f"
+  }
+}
